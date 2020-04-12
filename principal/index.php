@@ -18,7 +18,7 @@
 			<table border="0">
 				<tr align="center">
 					<td width="40%"><div id="tituloSeleccionado">PRINCIPAL /</div></td>
-					<td width="40%">BIENVENIDO (<a href="#" class="link">ADMINISTRADOR</a>)</td>
+					<td width="40%">BIENVENIDO AL SISTEMA (<a href="#" class="link">ADMINISTRADOR</a>)</td>
 					<td width="20%" align="right"><a href="../" class="link">SALIR</a><span style="padding-right:20px"></span></td>
 				</tr>
 			</table>
