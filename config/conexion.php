@@ -1,7 +1,7 @@
 <?php
 define('host','localhost');
 define('user','root');
-define('pass','');
+define('pass','toor');
 define('base','db_sistema_contable');
 $con= mysql_connect(host,user,pass);
 if(!$con){
